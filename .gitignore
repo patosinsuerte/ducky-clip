@@ -1,0 +1,7 @@
+.Makefile
+/build/
+/dist/
+bin/
+.vscode/
+.idea/
+.DS_Store (solo si usas Mac)
