@@ -14,13 +14,13 @@
 
 ---
 
-## 🚀 Installation
+## 🚀 Installation (Only linux for now)
 
 ### 🐧 Linux (Fedora, Ubuntu, Debian, etc.)
 
 **Manual Installation:**
 
-1. Download the `ducky` binary from the [Releases](#) section.
+1. Download the `ducky` binary from the [Releases](https://github.com/patosinsuerte/ducky-clip/releases) section.
 2. Grant execution permissions:
     ```bash
     chmod +x ducky
